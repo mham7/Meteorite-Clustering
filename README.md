@@ -1,4 +1,6 @@
-# This project analyzes historical data from the NASA dataset on meteorite landings to identify high-probability zones for future meteorite impacts. It utilizes two clustering techniques: K-Means and density-based clustering.
+#Analyzing Past Meteorite Landings to Identify High-Probability Impact Zones
+
+ This project analyzes historical data from the NASA dataset on meteorite landings to identify high-probability zones for future meteorite impacts. It utilizes two clustering techniques: K-Means and density-based clustering.
 
 The dataset is preprocessed to extract latitude and longitude coordinates for each meteorite landing. K-Means clustering is then applied to divide the data into clusters, optimizing the number of clusters using established methodologies.
 
